@@ -1,0 +1,4 @@
+Bienvenue dans le client interactif d'AppoLab
+Connection à AppoLab dans le client interactif d'AppoLab ...
+Identifiez vous maintenant (login <login> <mot de passe>)
+> 
